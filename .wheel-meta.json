@@ -1,0 +1,22 @@
+{
+  "wheel_id": 920,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-154",
+  "project": "retaining-walls-perth-council-and-approvals-b2848d885799c2a512b",
+  "parent_t1_ref": "retainingwallsperthwa-009",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth council and approvals",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-perth-council-and-approvals-b2848d885799c2a512b/",
+  "tier": "T2",
+  "writeback_nonce": "1b095e645f78abfe",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-perth-009/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
